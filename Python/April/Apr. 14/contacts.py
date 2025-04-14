@@ -1,6 +1,6 @@
 def phone_book():
   """
-  This function creates a phone book dictionary and interacts with the user.
+  Thi function creates a phone book dictionary and interacts with the user.
   """
 
   phone_numbers = {}  # Initialize an empty dictionary to store names and phone numbers
