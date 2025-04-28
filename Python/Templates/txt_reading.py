@@ -1,4 +1,4 @@
-# Template for reading from a text file
+# Template for reading from a text file by Marshall
 
 def read_from_txt(filepath):
     try:

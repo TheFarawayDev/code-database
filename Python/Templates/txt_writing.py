@@ -1,4 +1,4 @@
-# Template for writing to a text file
+# Template for writing to a text file by Marshall
 
 def write_to_txt(filepath, content, append=False):
     mode = 'a' if append else 'w'
